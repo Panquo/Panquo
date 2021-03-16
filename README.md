@@ -32,7 +32,7 @@ I'm interested in music, video games, travel, photography, climbing, and a lot o
 
 - this github lol
 - email : wolf.dcx@gmail.com
-- website : [link](http://panquo.github.io) (probably still under construction tho...)
+- website : [(probably still under construction tho...)](http://panquo.github.io) 
 
 ---
 ## See you soon !
